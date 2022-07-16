@@ -293,7 +293,9 @@ header {
 .creative {
 
 }
-
+.crtitm1{
+    margin-bottom: 40px;
+}
 
 .crtlogo {
 
@@ -316,7 +318,11 @@ header {
 
 }
 .crtp p{
-
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.brbtm{
+    border-bottom: 1px solid #8e8e8e;
 }
 /* creative end  */
 
