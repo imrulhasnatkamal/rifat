@@ -1,0 +1,40 @@
+lato font : font-family: 'Lato', sans-serif;
+robot font : font-family: 'Roboto', sans-serif;
+
+color black #333333
+ash #8e8e8e
+white #ffffff
+
+body
+
+spacing    padding    margin
+
+
+
+
+
+ <!-- crt logo h1  -->
+            <div class="row">
+
+              <div class="col-lg-2">
+                <div class="crtlogo">
+                  <i class="pe-7s-diamond"></i>
+                </div>
+              </div>
+              <div class="col-lg-10">
+                <div class="crth1">
+                  <h1>Why Choose Nipro</h1>
+                </div>
+              </div>
+              
+            </div>
+            <!-- crt logo h1  -->
+            <!-- crt p and bbtm  -->
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="crtp">
+                  <p>Lorem Ipsum is simply dummy lol Is the printing typesetting industry. Lorem some </p>
+                </div>
+              </div>
+            </div>
+            <!-- crt p and bbtm  -->
